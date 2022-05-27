@@ -1,8 +1,8 @@
 // shows current date in day, month, number
-var whatDay = moment().format("dddd, MMMM Do");
-$("#currentDay").text(whatDay);
+var currentDay = moment().format("dddd, MMMM Do");
+$("#currentDay").text(currentDay);
 
-var whatTime = moment().format()
+var currentTime = moment().hours()
 
 
 
@@ -17,4 +17,3 @@ var whatTime = moment().format()
 // save button = local storage
 
 // id for each time
-
