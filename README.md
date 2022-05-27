@@ -26,10 +26,10 @@ Upon loading the page, you should be greeted by the Work Day Scheduler providing
 
 THe hour blocks will change colour based on what time of day it is.  If an hour has passed the block will be grey, if it is currently that time it will be red, and if it is still to come it will be green. 
 
-Below is a gif that was provided to us of what the website should look like.
+Below is a screenshot of what the site should look like upon entry. There is one additional screenshot in the images folder as well.
 
 
-![alt text](assets/images//05-third-party-apis-homework-demo.gif)
+![alt text](assets/images//demo1.png)
 
 
 ## Credits
