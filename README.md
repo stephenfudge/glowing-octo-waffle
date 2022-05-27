@@ -24,7 +24,7 @@ Download the index.html file as well as the assets folder and the project should
 
 Upon loading the page, you should be greeted by the Work Day Scheduler providing today's date. There is an hour time block for every hour between 9am and 5pm. 
 
-THe hour blocks will change colour based on what time of day it is.  If an hour has passed the block will be grey, if it is currently that time it will be red, and if it is still to come it will be green. 
+The hour blocks will change colour based on what time of day it is.  If an hour has passed the block will be grey, if it is currently that time it will be red, and if it is still to come it will be green. 
 
 Below is a screenshot of what the site should look like upon entry. There is one additional screenshot in the images folder as well.
 
