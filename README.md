@@ -29,7 +29,7 @@ THe hour blocks will change colour based on what time of day it is.  If an hour 
 Below is a gif that was provided to us of what the website should look like.
 
 
-![alt text](assets/images//05-third-party-apis/homework-demo.gif)
+![alt text](assets/images//05-third-party-apis-homework-demo.gif)
 
 
 ## Credits
